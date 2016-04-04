@@ -1,0 +1,4 @@
+Do you use correlation of the two pairs in your strategy?
+No, I did not use correlation in this EA. But I am designing one robot that takes advantage of the correlations between some pairs.
+How do you detect a trend? What indicators do you use?
+There are many reversal indicators that can be used in this kind of strategy. I use RSI as the only indicator a when open the first position.

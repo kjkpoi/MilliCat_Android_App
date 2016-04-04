@@ -1,0 +1,8 @@
+any idea how to solve that?
+like the text is spilling out of the div
+that's definitely to do with your paragraph sizing
+its okay i got it to work
+the div inside the other div was wider
+inceptdiv?
+Imao
+yeah
